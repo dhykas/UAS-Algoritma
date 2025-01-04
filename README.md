@@ -1,4 +1,4 @@
-# README
+# UJIAN AKHIR SEMESTER
 
 ## Aplikasi Manajemen Data Mahasiswa
 

@@ -29,7 +29,7 @@ int main() {
         case 1: {
             Pengeluaran pengeluaranBaru;
             cout << "Masukkan nama kategori pengeluaran: ";
-            cin.ignore(); // Membersihkan buffer input
+            cin.ignore(); 
             getline(cin, pengeluaranBaru.kategori);
             cout << "Masukkan jumlah pengeluaran: ";
             cin >> pengeluaranBaru.jumlah;
